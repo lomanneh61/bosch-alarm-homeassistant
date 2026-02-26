@@ -8,10 +8,10 @@
       "macaddress": "000463*"
     }
   ],
-  "documentation": "https://www.home-assistant.io/integrations/bosch_alarm",
+  "documentation": "https://github.com/lomanneh61/bosch-alarm-homeassistant",
   "integration_type": "device",
   "iot_class": "local_push",
-  "quality_scale": "platinum",
   "requirements": ["bosch-alarm-mode2==0.4.6"],
   "version": "1.2.5"
 }
+
